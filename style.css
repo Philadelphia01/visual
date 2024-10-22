@@ -2,6 +2,16 @@ body{
     color: aqua;
     font-size: 100%;
     font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+    text-align: right;
     margin-top: 100px;
 }
+
+.div{
+    width: 50%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);   
+}
+
